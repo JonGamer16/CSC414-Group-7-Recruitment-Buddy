@@ -1,0 +1,13 @@
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\RecruitmentBuddyApp.csproj.AssemblyReference.cache
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\Final_SignUP.Form1.resources
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\Final_SignUP.Form2.resources
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\Final_SignUP.Form3.resources
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\RecruitmentBuddyApp.Properties.Resources.resources
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\RecruitmentBuddyApp.csproj.GenerateResource.cache
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\RecruitmentBuddyApp.csproj.CoreCompileInputs.cache
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\bin\Debug\RecruitmentBuddyApp.exe.config
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\bin\Debug\RecruitmentBuddyApp.exe
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\bin\Debug\RecruitmentBuddyApp.pdb
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\RecruitmentBuddyApp.exe
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\RecruitmentBuddyApp.pdb
+C:\Users\demar\OneDrive\Desktop\CSC 101 Labs\RecruitmentBuddyApp\RecruitmentBuddyApp\obj\Debug\RecruitmentBuddyApp.ResultForm.resources
