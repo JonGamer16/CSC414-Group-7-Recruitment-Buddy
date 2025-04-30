@@ -196,5 +196,20 @@ namespace Final_SignUP
         {
 
         }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton18_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
