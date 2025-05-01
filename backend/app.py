@@ -71,7 +71,7 @@ def submit_questionnaire():
         return jsonify({"error": "Internal server error"}), 500
     
     except Error as e:
-        print("MySQL error:", e)  # <-- ADD THIS
+        print("MySQL error:", e)  
         return jsonify({"error": "Database error"}), 500 
 
     
