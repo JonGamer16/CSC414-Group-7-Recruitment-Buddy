@@ -40,7 +40,16 @@ You should see:
 > * Running on http://127.0.0.1:5000
 
 --------------------
-4. TESTING WITH POSTMAN (OPTIONAL)
+4. Running Recommendation Engine
+--------------------
+
+Alter recommendation.py to match your MySQL username and password.
+While in the venv environment, run py recommendation.py
+It should work as is, however it is not connected to the front end at this time.
+
+
+--------------------
+5. TESTING WITH POSTMAN (OPTIONAL)
 --------------------
 Send a POST request to:
 

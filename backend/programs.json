@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Computer Science - BS",
+    "education_level": "Bachelor's Degree",
+    "career_clusters": ["Information technology", "STEM"],
+    "subjects": ["Math", "Science"],
+    "class_env": "online",
+    "social_energy": "introvert",
+    "mind": "intuitive",
+    "nature": "thinking",
+    "tactics": "judging",
+    "workplace_values": ["independence", "good pay and benefits", "growth opportunities"]
+  },
+  {
+    "name": "Agriculture Business - AS",
+    "education_level": "Associate Degree",
+    "career_clusters": ["Agriculture, food, and natural resources", "Business management and administration"],
+    "subjects": ["Science", "Math"],
+    "class_env": "hybrid",
+    "social_energy": "ambivert",
+    "mind": "observant",
+    "nature": "feeling",
+    "tactics": "prospecting",
+    "workplace_values": ["consistency", "low stress", "meaningful work"]
+  },
+  {
+    "name": "Digital Media Arts - BA",
+    "education_level": "Bachelor's Degree",
+    "career_clusters": ["Arts, audio/video technology, and communication", "Marketing, sales, and service"],
+    "subjects": ["Arts", "English", "Music"],
+    "class_env": "all on campus",
+    "social_energy": "extravert",
+    "mind": "neutral mind",
+    "nature": "neutral nature",
+    "tactics": "neutral tactics",
+    "workplace_values": ["peer connections", "creativity", "work-life balance"]
+  },
+  {
+    "name": "Nursing - BSN",
+    "education_level": "Bachelor's Degree",
+    "career_clusters": ["Health science"],
+    "subjects": ["Science", "English"],
+    "class_env": "hybrid",
+    "social_energy": "ambivert",
+    "mind": "observant",
+    "nature": "feeling",
+    "tactics": "judging",
+    "workplace_values": ["meaningful work", "security", "growth opportunities"]
+  },
+  {
+    "name": "Elementary Education - BA",
+    "education_level": "Bachelor's Degree",
+    "career_clusters": ["Education and training"],
+    "subjects": ["English", "History", "Math"],
+    "class_env": "all on campus",
+    "social_energy": "extravert",
+    "mind": "neutral mind",
+    "nature": "feeling",
+    "tactics": "judging",
+    "workplace_values": ["collaboration", "peer connections", "meaningful work"]
+  },
+  {
+    "name": "Accounting - AAS",
+    "education_level": "Associate Degree",
+    "career_clusters": ["Finance", "Business management and administration"],
+    "subjects": ["Math", "English"],
+    "class_env": "online",
+    "social_energy": "introvert",
+    "mind": "observant",
+    "nature": "thinking",
+    "tactics": "judging",
+    "workplace_values": ["consistency", "security", "good pay and benefits"]
+  },
+  {
+    "name": "Mechanical Engineering - BS",
+    "education_level": "Bachelor's Degree",
+    "career_clusters": ["STEM", "Manufacturing"],
+    "subjects": ["Math", "Science"],
+    "class_env": "full time",
+    "social_energy": "introvert",
+    "mind": "intuitive",
+    "nature": "thinking",
+    "tactics": "judging",
+    "workplace_values": ["good pay and benefits", "growth opportunities", "low stress"]
+  },
+  {
+    "name": "Criminal Justice - BA",
+    "education_level": "Bachelor's Degree",
+    "career_clusters": ["Law, public safety, corrections, and security"],
+    "subjects": ["History", "English"],
+    "class_env": "online",
+    "social_energy": "ambivert",
+    "mind": "observant",
+    "nature": "thinking",
+    "tactics": "neutral tactics",
+    "workplace_values": ["security", "meaningful work", "independence"]
+  },
+  {
+    "name": "Hospitality Management - AS",
+    "education_level": "Associate Degree",
+    "career_clusters": ["Hospitality and tourism"],
+    "subjects": ["English", "Math", "Sports"],
+    "class_env": "part time",
+    "social_energy": "extravert",
+    "mind": "neutral mind",
+    "nature": "feeling",
+    "tactics": "prospecting",
+    "workplace_values": ["peer connections", "low stress", "work-life balance"]
+  },
+  {
+    "name": "Environmental Science - BS",
+    "education_level": "Bachelor's Degree",
+    "career_clusters": ["Agriculture, food, and natural resources", "STEM"],
+    "subjects": ["Science", "Math"],
+    "class_env": "hybrid",
+    "social_energy": "introvert",
+    "mind": "intuitive",
+    "nature": "feeling",
+    "tactics": "prospecting",
+    "workplace_values": ["meaningful work", "growth opportunities", "collaboration"]
+  }
+]
