@@ -21,7 +21,7 @@ namespace RecruitmentBuddyApp
         private void DisplayResults(List<string> selectedOptions)
         {
             lblMessage.Text = "Congratulations! We've found a program for you!";
-            lblOptions.Text = "Your selections: \n" + string.Join(", ", selectedOptions);
+            lblOptions.Text = "Your selections: \n" + string.Join(",\n", selectedOptions);
         }
         private void label1_Click(object sender, EventArgs e)
         {

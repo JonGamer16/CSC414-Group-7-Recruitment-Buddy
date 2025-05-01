@@ -199,13 +199,13 @@
     <value>2, 2, 2, 2</value>
   </data>
   <data name="radioButton1_1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>107, 23</value>
+    <value>103, 23</value>
   </data>
   <data name="radioButton1_1.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="radioButton1_1.Text" xml:space="preserve">
-    <value>High School </value>
+    <value>High School</value>
   </data>
   <data name="&gt;&gt;radioButton1_1.Name" xml:space="preserve">
     <value>radioButton1_1</value>
@@ -591,93 +591,6 @@
   <data name="&gt;&gt;Question1.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;label11.Name" xml:space="preserve">
-    <value>label11</value>
-  </data>
-  <data name="&gt;&gt;label11.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
-    <value>Question3</value>
-  </data>
-  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;label10.Name" xml:space="preserve">
-    <value>label10</value>
-  </data>
-  <data name="&gt;&gt;label10.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
-    <value>Question3</value>
-  </data>
-  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>Question3</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;comboBox3_3.Name" xml:space="preserve">
-    <value>comboBox3_3</value>
-  </data>
-  <data name="&gt;&gt;comboBox3_3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;comboBox3_3.Parent" xml:space="preserve">
-    <value>Question3</value>
-  </data>
-  <data name="&gt;&gt;comboBox3_3.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;comboBox3_2.Name" xml:space="preserve">
-    <value>comboBox3_2</value>
-  </data>
-  <data name="&gt;&gt;comboBox3_2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;comboBox3_2.Parent" xml:space="preserve">
-    <value>Question3</value>
-  </data>
-  <data name="&gt;&gt;comboBox3_2.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="Question3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>24, 343</value>
-  </data>
-  <data name="Question3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
-  </data>
-  <data name="Question3.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
-  </data>
-  <data name="Question3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>555, 157</value>
-  </data>
-  <data name="Question3.TabIndex" type="System.Int32, mscorlib">
-    <value>35</value>
-  </data>
-  <data name="&gt;&gt;Question3.Name" xml:space="preserve">
-    <value>Question3</value>
-  </data>
-  <data name="&gt;&gt;Question3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Question3.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;Question3.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
   <data name="label11.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -781,178 +694,25 @@
     <value>Calibri, 12pt</value>
   </data>
   <data name="comboBox3_3.Items" xml:space="preserve">
-    <value>-Arts and Humanities</value>
+    <value>Arts</value>
   </data>
   <data name="comboBox3_3.Items1" xml:space="preserve">
-    <value>Fine Arts</value>
+    <value>English</value>
   </data>
   <data name="comboBox3_3.Items2" xml:space="preserve">
-    <value>Music</value>
-  </data>
-  <data name="comboBox3_3.Items3" xml:space="preserve">
-    <value>Theatre</value>
-  </data>
-  <data name="comboBox3_3.Items4" xml:space="preserve">
-    <value>Literature</value>
-  </data>
-  <data name="comboBox3_3.Items5" xml:space="preserve">
-    <value>Philosophy</value>
-  </data>
-  <data name="comboBox3_3.Items6" xml:space="preserve">
     <value>History</value>
   </data>
-  <data name="comboBox3_3.Items7" xml:space="preserve">
-    <value>Art History</value>
+  <data name="comboBox3_3.Items3" xml:space="preserve">
+    <value>Math</value>
   </data>
-  <data name="comboBox3_3.Items8" xml:space="preserve">
-    <value>-Business</value>
+  <data name="comboBox3_3.Items4" xml:space="preserve">
+    <value>Music</value>
   </data>
-  <data name="comboBox3_3.Items9" xml:space="preserve">
-    <value>Business Administration</value>
+  <data name="comboBox3_3.Items5" xml:space="preserve">
+    <value>Science</value>
   </data>
-  <data name="comboBox3_3.Items10" xml:space="preserve">
-    <value>Marketing</value>
-  </data>
-  <data name="comboBox3_3.Items11" xml:space="preserve">
-    <value>Finance</value>
-  </data>
-  <data name="comboBox3_3.Items12" xml:space="preserve">
-    <value>Accounting</value>
-  </data>
-  <data name="comboBox3_3.Items13" xml:space="preserve">
-    <value>Management</value>
-  </data>
-  <data name="comboBox3_3.Items14" xml:space="preserve">
-    <value>Entrepreneurship</value>
-  </data>
-  <data name="comboBox3_3.Items15" xml:space="preserve">
-    <value>International Business</value>
-  </data>
-  <data name="comboBox3_3.Items16" xml:space="preserve">
-    <value>-Science and Technology</value>
-  </data>
-  <data name="comboBox3_3.Items17" xml:space="preserve">
-    <value>Biology</value>
-  </data>
-  <data name="comboBox3_3.Items18" xml:space="preserve">
-    <value>Chemistry</value>
-  </data>
-  <data name="comboBox3_3.Items19" xml:space="preserve">
-    <value>Physics</value>
-  </data>
-  <data name="comboBox3_3.Items20" xml:space="preserve">
-    <value>Computer Science</value>
-  </data>
-  <data name="comboBox3_3.Items21" xml:space="preserve">
-    <value>Information Technology</value>
-  </data>
-  <data name="comboBox3_3.Items22" xml:space="preserve">
-    <value>Environmental Science</value>
-  </data>
-  <data name="comboBox3_3.Items23" xml:space="preserve">
-    <value>Mathematics</value>
-  </data>
-  <data name="comboBox3_3.Items24" xml:space="preserve">
-    <value>-Health Sciences</value>
-  </data>
-  <data name="comboBox3_3.Items25" xml:space="preserve">
-    <value>Nursing</value>
-  </data>
-  <data name="comboBox3_3.Items26" xml:space="preserve">
-    <value>Public Health</value>
-  </data>
-  <data name="comboBox3_3.Items27" xml:space="preserve">
-    <value>Pharmacy</value>
-  </data>
-  <data name="comboBox3_3.Items28" xml:space="preserve">
-    <value>Physical Therapy</value>
-  </data>
-  <data name="comboBox3_3.Items29" xml:space="preserve">
-    <value>Nutrition</value>
-  </data>
-  <data name="comboBox3_3.Items30" xml:space="preserve">
-    <value>Occupational Therapy</value>
-  </data>
-  <data name="comboBox3_3.Items31" xml:space="preserve">
-    <value>Health Administration</value>
-  </data>
-  <data name="comboBox3_3.Items32" xml:space="preserve">
-    <value>-Social Sciences</value>
-  </data>
-  <data name="comboBox3_3.Items33" xml:space="preserve">
-    <value>Psychology</value>
-  </data>
-  <data name="comboBox3_3.Items34" xml:space="preserve">
-    <value>Sociology</value>
-  </data>
-  <data name="comboBox3_3.Items35" xml:space="preserve">
-    <value>Political Science</value>
-  </data>
-  <data name="comboBox3_3.Items36" xml:space="preserve">
-    <value>Economics</value>
-  </data>
-  <data name="comboBox3_3.Items37" xml:space="preserve">
-    <value>Anthropology</value>
-  </data>
-  <data name="comboBox3_3.Items38" xml:space="preserve">
-    <value>International Relations</value>
-  </data>
-  <data name="comboBox3_3.Items39" xml:space="preserve">
-    <value>Education</value>
-  </data>
-  <data name="comboBox3_3.Items40" xml:space="preserve">
-    <value>-Engineering</value>
-  </data>
-  <data name="comboBox3_3.Items41" xml:space="preserve">
-    <value>Civil Engineering</value>
-  </data>
-  <data name="comboBox3_3.Items42" xml:space="preserve">
-    <value>Mechanical Engineering</value>
-  </data>
-  <data name="comboBox3_3.Items43" xml:space="preserve">
-    <value>Electrical Engineering</value>
-  </data>
-  <data name="comboBox3_3.Items44" xml:space="preserve">
-    <value>Chemical Engineering</value>
-  </data>
-  <data name="comboBox3_3.Items45" xml:space="preserve">
-    <value>Computer Engineering</value>
-  </data>
-  <data name="comboBox3_3.Items46" xml:space="preserve">
-    <value>Aerospace Engineering</value>
-  </data>
-  <data name="comboBox3_3.Items47" xml:space="preserve">
-    <value>-Applied Sciences</value>
-  </data>
-  <data name="comboBox3_3.Items48" xml:space="preserve">
-    <value>Graphic Design</value>
-  </data>
-  <data name="comboBox3_3.Items49" xml:space="preserve">
-    <value>Culinary Arts</value>
-  </data>
-  <data name="comboBox3_3.Items50" xml:space="preserve">
-    <value>Hospitality Management</value>
-  </data>
-  <data name="comboBox3_3.Items51" xml:space="preserve">
-    <value>Interior Design</value>
-  </data>
-  <data name="comboBox3_3.Items52" xml:space="preserve">
-    <value>Fashion Design</value>
-  </data>
-  <data name="comboBox3_3.Items53" xml:space="preserve">
-    <value>Interdisciplinary Studies</value>
-  </data>
-  <data name="comboBox3_3.Items54" xml:space="preserve">
-    <value>Women's Studies</value>
-  </data>
-  <data name="comboBox3_3.Items55" xml:space="preserve">
-    <value>Environmental Studies</value>
-  </data>
-  <data name="comboBox3_3.Items56" xml:space="preserve">
-    <value>Ethnic Studies</value>
-  </data>
-  <data name="comboBox3_3.Items57" xml:space="preserve">
-    <value>Global Studies</value>
+  <data name="comboBox3_3.Items6" xml:space="preserve">
+    <value>Sports</value>
   </data>
   <data name="comboBox3_3.Location" type="System.Drawing.Point, System.Drawing">
     <value>43, 105</value>
@@ -1026,92 +786,32 @@
   <data name="&gt;&gt;comboBox3_2.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;checkBox4_5.Name" xml:space="preserve">
-    <value>checkBox4_5</value>
+  <data name="Question3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 343</value>
   </data>
-  <data name="&gt;&gt;checkBox4_5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_5.Parent" xml:space="preserve">
-    <value>Question4</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_5.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_3.Name" xml:space="preserve">
-    <value>checkBox4_3</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_3.Parent" xml:space="preserve">
-    <value>Question4</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_3.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_4.Name" xml:space="preserve">
-    <value>checkBox4_4</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_4.Parent" xml:space="preserve">
-    <value>Question4</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_4.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_2.Name" xml:space="preserve">
-    <value>checkBox4_2</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_2.Parent" xml:space="preserve">
-    <value>Question4</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_2.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_1.Name" xml:space="preserve">
-    <value>checkBox4_1</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_1.Parent" xml:space="preserve">
-    <value>Question4</value>
-  </data>
-  <data name="&gt;&gt;checkBox4_1.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="Question4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>24, 504</value>
-  </data>
-  <data name="Question4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="Question3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="Question4.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="Question3.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="Question4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>555, 160</value>
+  <data name="Question3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>555, 157</value>
   </data>
-  <data name="Question4.TabIndex" type="System.Int32, mscorlib">
-    <value>38</value>
+  <data name="Question3.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
   </data>
-  <data name="&gt;&gt;Question4.Name" xml:space="preserve">
-    <value>Question4</value>
+  <data name="&gt;&gt;Question3.Name" xml:space="preserve">
+    <value>Question3</value>
   </data>
-  <data name="&gt;&gt;Question4.Type" xml:space="preserve">
+  <data name="&gt;&gt;Question3.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Question4.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Question3.Parent" xml:space="preserve">
     <value>panel1</value>
   </data>
-  <data name="&gt;&gt;Question4.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="&gt;&gt;Question3.ZOrder" xml:space="preserve">
+    <value>6</value>
   </data>
   <data name="checkBox4_5.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1263,152 +963,32 @@
   <data name="&gt;&gt;checkBox4_1.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;checkBox6_10.Name" xml:space="preserve">
-    <value>checkBox6_10</value>
+  <data name="Question4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 504</value>
   </data>
-  <data name="&gt;&gt;checkBox6_10.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_10.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_10.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_9.Name" xml:space="preserve">
-    <value>checkBox6_9</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_9.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_9.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_9.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_8.Name" xml:space="preserve">
-    <value>checkBox6_8</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_8.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_8.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_8.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_7.Name" xml:space="preserve">
-    <value>checkBox6_7</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_7.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_7.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_6.Name" xml:space="preserve">
-    <value>checkBox6_6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_6.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_6.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_5.Name" xml:space="preserve">
-    <value>checkBox6_5</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_5.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_5.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_4.Name" xml:space="preserve">
-    <value>checkBox6_4</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_4.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_4.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_3.Name" xml:space="preserve">
-    <value>checkBox6_3</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_3.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_3.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_2.Name" xml:space="preserve">
-    <value>checkBox6_2</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_2.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_2.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_1.Name" xml:space="preserve">
-    <value>checkBox6_1</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_1.Parent" xml:space="preserve">
-    <value>Question6</value>
-  </data>
-  <data name="&gt;&gt;checkBox6_1.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="Question6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>24, 962</value>
-  </data>
-  <data name="Question6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="Question4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="Question6.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="Question4.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="Question6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>555, 174</value>
+  <data name="Question4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>555, 160</value>
   </data>
-  <data name="Question6.TabIndex" type="System.Int32, mscorlib">
-    <value>39</value>
+  <data name="Question4.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
   </data>
-  <data name="&gt;&gt;Question6.Name" xml:space="preserve">
-    <value>Question6</value>
+  <data name="&gt;&gt;Question4.Name" xml:space="preserve">
+    <value>Question4</value>
   </data>
-  <data name="&gt;&gt;Question6.Type" xml:space="preserve">
+  <data name="&gt;&gt;Question4.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Question6.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Question4.Parent" xml:space="preserve">
     <value>panel1</value>
   </data>
-  <data name="&gt;&gt;Question6.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;Question4.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="checkBox6_10.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1710,92 +1290,32 @@
   <data name="&gt;&gt;checkBox6_1.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
-  <data name="&gt;&gt;label12.Name" xml:space="preserve">
-    <value>label12</value>
+  <data name="Question6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 962</value>
   </data>
-  <data name="&gt;&gt;label12.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label12.Parent" xml:space="preserve">
-    <value>Question5</value>
-  </data>
-  <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;groupBox5.Name" xml:space="preserve">
-    <value>groupBox5</value>
-  </data>
-  <data name="&gt;&gt;groupBox5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox5.Parent" xml:space="preserve">
-    <value>Question5</value>
-  </data>
-  <data name="&gt;&gt;groupBox5.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
-    <value>Question5</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
-    <value>groupBox3</value>
-  </data>
-  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
-    <value>Question5</value>
-  </data>
-  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
-    <value>Question5</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="Question5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>24, 668</value>
-  </data>
-  <data name="Question5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="Question6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="Question5.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="Question6.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="Question5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>555, 290</value>
+  <data name="Question6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>555, 174</value>
   </data>
-  <data name="Question5.TabIndex" type="System.Int32, mscorlib">
-    <value>40</value>
+  <data name="Question6.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
   </data>
-  <data name="&gt;&gt;Question5.Name" xml:space="preserve">
-    <value>Question5</value>
+  <data name="&gt;&gt;Question6.Name" xml:space="preserve">
+    <value>Question6</value>
   </data>
-  <data name="&gt;&gt;Question5.Type" xml:space="preserve">
+  <data name="&gt;&gt;Question6.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Question5.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Question6.Parent" xml:space="preserve">
     <value>panel1</value>
   </data>
-  <data name="&gt;&gt;Question5.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="&gt;&gt;Question6.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <data name="label12.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1893,6 +1413,222 @@
   <data name="&gt;&gt;groupBox5.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="&gt;&gt;radioButton5_9.Name" xml:space="preserve">
+    <value>radioButton5_9</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_9.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_9.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_8.Name" xml:space="preserve">
+    <value>radioButton5_8</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_8.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_8.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_7.Name" xml:space="preserve">
+    <value>radioButton5_7</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_7.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_7.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 179</value>
+  </data>
+  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>Nature</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
+    <value>Question5</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_6.Name" xml:space="preserve">
+    <value>radioButton5_6</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_6.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_6.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_5.Name" xml:space="preserve">
+    <value>radioButton5_5</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_5.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_5.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_4.Name" xml:space="preserve">
+    <value>radioButton5_4</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_4.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>249, 73</value>
+  </data>
+  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>Mind</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
+    <value>Question5</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_3.Name" xml:space="preserve">
+    <value>radioButton5_3</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_3.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_2.Name" xml:space="preserve">
+    <value>radioButton5_2</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_2.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_1.Name" xml:space="preserve">
+    <value>radioButton5_1</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_1.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;radioButton5_1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Calibri, 12pt</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 73</value>
+  </data>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>Social Energy</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>Question5</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Question5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 668</value>
+  </data>
+  <data name="Question5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="Question5.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="Question5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>555, 290</value>
+  </data>
+  <data name="Question5.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="&gt;&gt;Question5.Name" xml:space="preserve">
+    <value>Question5</value>
+  </data>
+  <data name="&gt;&gt;Question5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Question5.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;Question5.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
   <data name="radioButton5_12.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1972,69 +1708,6 @@
     <value>groupBox5</value>
   </data>
   <data name="&gt;&gt;radioButton5_10.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_9.Name" xml:space="preserve">
-    <value>radioButton5_9</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_9.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_9.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_9.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_8.Name" xml:space="preserve">
-    <value>radioButton5_8</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_8.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_8.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_8.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_7.Name" xml:space="preserve">
-    <value>radioButton5_7</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_7.Parent" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_7.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="groupBox4.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Calibri, 12pt</value>
-  </data>
-  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 179</value>
-  </data>
-  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 100</value>
-  </data>
-  <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
-    <value>33</value>
-  </data>
-  <data name="groupBox4.Text" xml:space="preserve">
-    <value>Nature</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
-    <value>groupBox4</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
-    <value>Question5</value>
-  </data>
-  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
   <data name="radioButton5_9.AutoSize" type="System.Boolean, mscorlib">
@@ -2118,69 +1791,6 @@
   <data name="&gt;&gt;radioButton5_7.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;radioButton5_6.Name" xml:space="preserve">
-    <value>radioButton5_6</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_6.Parent" xml:space="preserve">
-    <value>groupBox3</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_6.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_5.Name" xml:space="preserve">
-    <value>radioButton5_5</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_5.Parent" xml:space="preserve">
-    <value>groupBox3</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_5.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_4.Name" xml:space="preserve">
-    <value>radioButton5_4</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_4.Parent" xml:space="preserve">
-    <value>groupBox3</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_4.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="groupBox3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Calibri, 12pt</value>
-  </data>
-  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>249, 73</value>
-  </data>
-  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 100</value>
-  </data>
-  <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
-    <value>33</value>
-  </data>
-  <data name="groupBox3.Text" xml:space="preserve">
-    <value>Mind</value>
-  </data>
-  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
-    <value>groupBox3</value>
-  </data>
-  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
-    <value>Question5</value>
-  </data>
-  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
   <data name="radioButton5_6.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -2261,69 +1871,6 @@
   </data>
   <data name="&gt;&gt;radioButton5_4.ZOrder" xml:space="preserve">
     <value>2</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_3.Name" xml:space="preserve">
-    <value>radioButton5_3</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_3.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_3.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_2.Name" xml:space="preserve">
-    <value>radioButton5_2</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_2.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_1.Name" xml:space="preserve">
-    <value>radioButton5_1</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_1.Parent" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;radioButton5_1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Calibri, 12pt</value>
-  </data>
-  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 73</value>
-  </data>
-  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 100</value>
-  </data>
-  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>32</value>
-  </data>
-  <data name="groupBox2.Text" xml:space="preserve">
-    <value>Social Energy</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
-    <value>groupBox2</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
-    <value>Question5</value>
-  </data>
-  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
-    <value>4</value>
   </data>
   <data name="radioButton5_3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -2411,162 +1958,6 @@
   </data>
   <data name="panel1.AutoScrollMinSize" type="System.Drawing.Size, System.Drawing">
     <value>0, 1500</value>
-  </data>
-  <data name="&gt;&gt;groupBox6.Name" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;groupBox6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox6.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;groupBox6.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
-    <value>groupBox1</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 54</value>
-  </data>
-  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>650, 300</value>
-  </data>
-  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
-    <value>41</value>
-  </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_3.Name" xml:space="preserve">
-    <value>comboBox2_3</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_3.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_3.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_2.Name" xml:space="preserve">
-    <value>comboBox2_2</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_2.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;label13.Name" xml:space="preserve">
-    <value>label13</value>
-  </data>
-  <data name="&gt;&gt;label13.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label13.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;label14.Name" xml:space="preserve">
-    <value>label14</value>
-  </data>
-  <data name="&gt;&gt;label14.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label14.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;label15.Name" xml:space="preserve">
-    <value>label15</value>
-  </data>
-  <data name="&gt;&gt;label15.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label15.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;label15.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;label16.Name" xml:space="preserve">
-    <value>label16</value>
-  </data>
-  <data name="&gt;&gt;label16.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label16.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;label16.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_1.Name" xml:space="preserve">
-    <value>comboBox2_1</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_1.Parent" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;comboBox2_1.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="groupBox6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>24, 182</value>
-  </data>
-  <data name="groupBox6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
-  </data>
-  <data name="groupBox6.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
-  </data>
-  <data name="groupBox6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>555, 157</value>
-  </data>
-  <data name="groupBox6.TabIndex" type="System.Int32, mscorlib">
-    <value>36</value>
-  </data>
-  <data name="&gt;&gt;groupBox6.Name" xml:space="preserve">
-    <value>groupBox6</value>
-  </data>
-  <data name="&gt;&gt;groupBox6.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;groupBox6.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;groupBox6.ZOrder" xml:space="preserve">
-    <value>0</value>
   </data>
   <data name="comboBox2_3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Calibri, 12pt</value>
@@ -2925,6 +2316,33 @@
   <data name="&gt;&gt;comboBox2_1.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
+  <data name="groupBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 182</value>
+  </data>
+  <data name="groupBox6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="groupBox6.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="groupBox6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>555, 157</value>
+  </data>
+  <data name="groupBox6.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.Name" xml:space="preserve">
+    <value>groupBox6</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;groupBox6.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
     <value>24, 1140</value>
   </data>
@@ -2951,6 +2369,27 @@
   </data>
   <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
     <value>1</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 54</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>650, 300</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
