@@ -21,7 +21,7 @@ namespace RecruitmentBuddyApp
         private void DisplayResults(List<string> selectedOptions)
         {
             lblMessage.Text = "Congratulations! We've found a program for you!";
-            lblOptions.Text = "You selected: " + string.Join(", ", selectedOptions);
+            lblOptions.Text = "Your selections: \n" + string.Join(", ", selectedOptions);
         }
         private void label1_Click(object sender, EventArgs e)
         {
@@ -34,6 +34,11 @@ namespace RecruitmentBuddyApp
         }
 
         private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ResultForm_Load(object sender, EventArgs e)
         {
 
         }

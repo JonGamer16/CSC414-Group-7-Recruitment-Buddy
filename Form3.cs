@@ -32,46 +32,67 @@ namespace Final_SignUP
             // Clear previous selections
             selectedOptions.Clear();
             // Collect selected values from GroupBox for Question 1
-            if (radioButton1.Checked) selectedOptions.Add(radioButton1.Text);
-            if (radioButton2.Checked) selectedOptions.Add(radioButton2.Text);
-            if (radioButton3.Checked) selectedOptions.Add(radioButton3.Text);
+            if (radioButton1_1.Checked) selectedOptions.Add(radioButton1_1.Text);
+            if (radioButton1_2.Checked) selectedOptions.Add(radioButton1_2.Text);
+            if (radioButton1_3.Checked) selectedOptions.Add(radioButton1_3.Text);
 
             // Collect selected values from GroupBox for Question 2
-            if (radioButton4.Checked) selectedOptions.Add(radioButton4.Text);
-            if (radioButton5.Checked) selectedOptions.Add(radioButton5.Text);
-            if (radioButton6.Checked) selectedOptions.Add(radioButton6.Text);
+            if (comboBox2_1.SelectedItem != null)
+            { selectedOptions.Add(comboBox2_1.SelectedItem.ToString()); }
+            if (comboBox2_2.SelectedItem != null)
+            { selectedOptions.Add(comboBox2_2.SelectedItem.ToString()); }
+            if (comboBox2_3.SelectedItem != null)
+            { selectedOptions.Add(comboBox2_3.SelectedItem.ToString()); }
 
             // Collect selected values from GroupBox for Question 3
-            if (radioButton7.Checked) selectedOptions.Add(radioButton7.Text);
-            if (radioButton8.Checked) selectedOptions.Add(radioButton8.Text);
-            if (radioButton9.Checked) selectedOptions.Add(radioButton9.Text);
-            if (radioButton61.Checked) selectedOptions.Add(radioButton61.Text);
+            if (comboBox3_1.SelectedItem != null)
+            { selectedOptions.Add(comboBox3_1.SelectedItem.ToString()); }
+            if (comboBox3_2.SelectedItem != null)
+            { selectedOptions.Add(comboBox3_2.SelectedItem.ToString()); }
+            if (comboBox3_3.SelectedItem != null)
+            { selectedOptions.Add(comboBox3_3.SelectedItem.ToString()); }
 
             // Collect selected values from GroupBox for Question 4
-            if (radioButton10.Checked) selectedOptions.Add(radioButton10.Text);
-            if (radioButton11.Checked) selectedOptions.Add(radioButton11.Text);
-            if (radioButton12.Checked) selectedOptions.Add(radioButton12.Text);
-            if (radioButton13.Checked) selectedOptions.Add(radioButton13.Text);
-            if (radioButton14.Checked) selectedOptions.Add(radioButton14.Text);
+            if (checkBox4_1.Checked) selectedOptions.Add(checkBox4_1.Text);
+            if (checkBox4_2.Checked) selectedOptions.Add(checkBox4_2.Text);
+            if (checkBox4_3.Checked) selectedOptions.Add(checkBox4_3.Text);
+            if (checkBox4_4.Checked) selectedOptions.Add(checkBox4_4.Text);
+            if (checkBox4_5.Checked) selectedOptions.Add(checkBox4_5.Text);
 
-            // Collect selected combo box values
-            if (comboBox1.SelectedItem != null)
-            {
-                selectedOptions.Add(comboBox1.SelectedItem.ToString());
-            }
-            if (comboBox2.SelectedItem != null)
-            {
-                selectedOptions.Add(comboBox2.SelectedItem.ToString());
-            }
+            // Question 5
+            if (radioButton5_1.Checked) selectedOptions.Add(radioButton5_1.Text);
+            if (radioButton5_2.Checked) selectedOptions.Add(radioButton5_2.Text);
+            if (radioButton5_3.Checked) selectedOptions.Add(radioButton5_3.Text);
+
+            if (radioButton5_4.Checked) selectedOptions.Add(radioButton5_4.Text);
+            if (radioButton5_5.Checked) selectedOptions.Add(radioButton5_5.Text);
+            if (radioButton5_6.Checked) selectedOptions.Add(radioButton5_6.Text);
+
+            if (radioButton5_7.Checked) selectedOptions.Add(radioButton5_7.Text);
+            if (radioButton5_8.Checked) selectedOptions.Add(radioButton5_8.Text);
+            if (radioButton5_9.Checked) selectedOptions.Add(radioButton5_9.Text);
+
+            if (radioButton5_10.Checked) selectedOptions.Add(radioButton5_10.Text);
+            if (radioButton5_11.Checked) selectedOptions.Add(radioButton5_11.Text);
+            if (radioButton5_12.Checked) selectedOptions.Add(radioButton5_12.Text);
+
+            // Question 6
+            if (checkBox6_1.Checked) selectedOptions.Add(checkBox6_1.Text);
+            if (checkBox6_2.Checked) selectedOptions.Add(checkBox6_2.Text);
+            if (checkBox6_3.Checked) selectedOptions.Add(checkBox6_3.Text);
+            if (checkBox6_4.Checked) selectedOptions.Add(checkBox6_4.Text);
+            if (checkBox6_5.Checked) selectedOptions.Add(checkBox6_5.Text);
+            if (checkBox6_6.Checked) selectedOptions.Add(checkBox6_6.Text);
+            if (checkBox6_7.Checked) selectedOptions.Add(checkBox6_7.Text);
+            if (checkBox6_8.Checked) selectedOptions.Add(checkBox6_8.Text);
+            if (checkBox6_9.Checked) selectedOptions.Add(checkBox6_9.Text);
+            if (checkBox6_10.Checked) selectedOptions.Add(checkBox6_10.Text);
+
 
             // Collect text box values
-            if (!string.IsNullOrWhiteSpace(textBox1.Text))
+            if (!string.IsNullOrWhiteSpace(textBox7.Text))
             {
-                selectedOptions.Add(textBox1.Text);
-            }
-            if (!string.IsNullOrWhiteSpace(textBox3.Text))
-            {
-                selectedOptions.Add(textBox3.Text);
+                selectedOptions.Add(textBox7.Text);
             }
 
             // Create an instance of ResultForm and pass the selected options
